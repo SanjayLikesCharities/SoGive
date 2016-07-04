@@ -1,8 +1,6 @@
 # What is SoGive?
 
-SoGive is a tool that lets you see the impact you’ve made in the world through all your charitable giving. Unlike many other websites that support you with your charitable giving, we will
-be comprehensive - i.e. show you not just the giving that you did via SoGive, but also any other giving as well,
-and we show you the impact - i.e. what did your giving achieve, not just how much money did you give.
+SoGive is a tool that lets you see the impact you’ve made in the world through all your charitable giving. We aim to show you the impact of your donation - i.e. what did your giving achieve, not just how much money did you give.
 
 <div class="panel panel-default">
 <div class="panel-heading">Example</div>
@@ -18,4 +16,6 @@ and we show you the impact - i.e. what did your giving achieve, not just how muc
 
 The SoGive platform is a social media enabled platform -- you can link to facebook and twitter and let your friends know about the good you achieve in the world. We believe in being open and proud about your achievements with charitable giving - we don’t want you to hide your light under a bushel! But if you prefer to stay quiet about charity activity, it's your choice.
 
-There is no charge for using SoGive to see your impact on the world. If you make payments through SoGive, we will take a small percentage to help cover the costs of running the service, and this percentage will be less than the leading charitable giving platform.
+We don't plan to force people to pay a fee to use SoGive, however we will suggest that a percentage of each donation goes to SoGive so that we can continue to provide the service.
+
+SoGive is a not-for-profit social enterprise. If any profit did arise, the founders have both pledged to give all the profit away to charity.
