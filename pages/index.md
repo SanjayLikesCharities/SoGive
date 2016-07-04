@@ -23,14 +23,14 @@
     <div class="col-md-4">
       <h2>What We Do</h2>
       <p>
-      SoGive shows your impact - for the donations you make via SoGive and the donations you make elsewhere.
+      SoGive is a soon-to-be-built charity giving app that will help you see the impact of your giving.
       </p>
       <p>
-	SoGive's impact models are calculated independently of the charities themselves, so you can have confidence that they show you the true picture of what you achieved with your giving.
-	</p>
-	<p>
-	Impact indications available for all of the top 50 charities in the UK, and several others.
-	</p>
+      We believe that donors feel more inspired seeing their donations expressed in terms like "Congratulations! you distributed 30 malaria nets in Africa!" and not just "you gave £100 to charity".
+      </p>
+      <p>
+      SoGive will show donors the impact of their donations for as many charities as possible.
+      </p>
     </div><!-- ./what we do -->
     <div class="col-md-4">
     	<h2>Join Us</h2>
